@@ -10,7 +10,7 @@ This repository is designed to be foundational—evolving alongside my future un
 
 ## 🔗 Quick Links
 * **Professional Profile:** [My LinkedIn Account](https://www.linkedin.com/in/devvrat-singh-102938dd12)
-* **School Presentation:** [Google Slides Portfolio Layout](YOUR_GOOGLE_SLIDES_URL_HERE)
+* **School Presentation:** [Google Slides Portfolio Layout](https://docs.google.com/presentation/d/15pTFkcELtdAyBdT9uS1OyTAo1FypTvl6Op6Fp7DVIIM/edit?usp=sharing)
 
 ---
 
