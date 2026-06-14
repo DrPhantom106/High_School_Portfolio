@@ -33,5 +33,5 @@ This repository is designed to be foundational—evolving alongside my future un
 As I transition into higher education and my career, the high school archives built here will serve as the bedrock for my professional engineering/technical case studies.
 *“Show your work, document the process, and never stop learning.”*
 ### 🌐 Web Development Projects
-* [**Personal Website Project**](https://github.com/DrPhantom106/DEMO-Books)
+* [**DEMO AI BOOK RECOMENDATION**](https://github.com/DrPhantom106/DEMO-Books)
     * *Description:* A responsive personal website built using HTML and CSS during my Web Development course. Focuses on semantic structure and mobile-first design.
