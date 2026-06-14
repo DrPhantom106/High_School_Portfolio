@@ -16,7 +16,7 @@ This repository is designed to be foundational—evolving alongside my future un
 
 ## 📂 Repository Structure
 
-*   📁 `/computer-science`(computer-science/.keep) — Coding projects, Python scripts, and database assignments.
+*   📁 `/computer-science` — Coding projects, Python scripts, and database assignments.
 *   📁 `/science-and-math` — Physics/Chemistry investigatory projects, lab reports, and mathematical models.
 *   📁 `/certifications` — Certificates from online courses, Olympiads, and workshops.
 *   📁 `/leadership-and-events` — Documentation of school club activities, event management, and sports.
